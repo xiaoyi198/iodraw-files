@@ -65,10 +65,10 @@
           <mxGeometry x="109" y="415.5" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-20" value="CC2530 SoC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="413" y="572.5" width="143" height="48" as="geometry" />
+          <mxGeometry x="432" y="537" width="143" height="48" as="geometry" />
         </mxCell>
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-21" value="火焰传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="90" y="572.5" width="140" height="48" as="geometry" />
+          <mxGeometry x="109" y="537" width="140" height="48" as="geometry" />
         </mxCell>
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-22" value="串口连接" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="wQl4vjx1rMvWt7BPeA3n-14" target="wQl4vjx1rMvWt7BPeA3n-15">
           <mxGeometry relative="1" as="geometry">
@@ -97,6 +97,12 @@
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-26" value="数据采集" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="wQl4vjx1rMvWt7BPeA3n-21" target="wQl4vjx1rMvWt7BPeA3n-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wQl4vjx1rMvWt7BPeA3n-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="650" as="sourcePoint" />
+            <mxPoint x="720" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
