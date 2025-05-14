@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-5" value="云平台" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="550" width="269" height="494" as="geometry" />
+          <mxGeometry x="1340" y="400" width="269" height="494" as="geometry" />
         </mxCell>
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-6" value="数据存储" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="wQl4vjx1rMvWt7BPeA3n-5">
-          <mxGeometry x="61" y="46" width="124" height="48" as="geometry" />
+          <mxGeometry x="72.5" y="60" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-7" value="数据分析引擎" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="wQl4vjx1rMvWt7BPeA3n-5">
           <mxGeometry x="45" y="169" width="156" height="48" as="geometry" />
