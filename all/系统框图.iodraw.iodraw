@@ -47,10 +47,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-14" value="CC2530 SoC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="759" y="445" width="143" height="48" as="geometry" />
+          <mxGeometry x="750" y="190" width="143" height="48" as="geometry" />
         </mxCell>
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-15" value="ESP8266-12F" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="445" width="150" height="48" as="geometry" />
+          <mxGeometry x="980" y="190" width="150" height="48" as="geometry" />
         </mxCell>
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-16" value="互联网" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1288" y="445" width="108" height="48" as="geometry" />
@@ -97,20 +97,6 @@
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-26" value="数据采集" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="wQl4vjx1rMvWt7BPeA3n-21" target="wQl4vjx1rMvWt7BPeA3n-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-27" value="ZigBee通信" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.45;entryY=0;rounded=0;" edge="1" parent="1" source="wQl4vjx1rMvWt7BPeA3n-17" target="wQl4vjx1rMvWt7BPeA3n-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="734" y="128" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-28" value="ZigBee通信" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.46;entryY=1.01;rounded=0;" edge="1" parent="1" source="wQl4vjx1rMvWt7BPeA3n-20" target="wQl4vjx1rMvWt7BPeA3n-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="734" y="860" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
