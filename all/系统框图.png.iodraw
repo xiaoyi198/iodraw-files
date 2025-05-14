@@ -10,7 +10,7 @@
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-15" value="ESP8266-12F" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="750" y="560" width="150" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-16" value="互联网" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="wQl4vjx1rMvWt7BPeA3n-16" value="EMQX MQTT服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="640" width="108" height="48" as="geometry" />
         </mxCell>
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-17" value="CC2530 SoC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
