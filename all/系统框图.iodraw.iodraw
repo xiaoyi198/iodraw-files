@@ -70,11 +70,6 @@
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-21" value="火焰传感器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="109" y="537" width="140" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-23" value="WiFi连接" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="wQl4vjx1rMvWt7BPeA3n-15" target="wQl4vjx1rMvWt7BPeA3n-16">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wQl4vjx1rMvWt7BPeA3n-24" value="数据采集" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.05;entryY=0;rounded=0;" edge="1" parent="1" source="wQl4vjx1rMvWt7BPeA3n-18" target="wQl4vjx1rMvWt7BPeA3n-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
