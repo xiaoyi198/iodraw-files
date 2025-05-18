@@ -91,16 +91,12 @@
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-20" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.02;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-4" target="et-l_KC31eioHP34dz9y-10">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1035" y="192" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="et-l_KC31eioHP34dz9y-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-4" target="et-l_KC31eioHP34dz9y-11">
+        <mxCell id="et-l_KC31eioHP34dz9y-21" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.98;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-4" target="et-l_KC31eioHP34dz9y-11">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1219" y="192" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
