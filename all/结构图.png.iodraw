@@ -26,7 +26,7 @@
         <mxCell id="et-l_KC31eioHP34dz9y-28" value="EMQX 云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="et-l_KC31eioHP34dz9y-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="et-l_KC31eioHP34dz9y-29" value="温度传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-30" value="CC2530&lt;div&gt;传感器节点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
