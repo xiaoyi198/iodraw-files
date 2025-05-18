@@ -70,14 +70,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="et-l_KC31eioHP34dz9y-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-7">
+        <mxCell id="et-l_KC31eioHP34dz9y-17" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="555" y="214" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="et-l_KC31eioHP34dz9y-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-8">
+        <mxCell id="et-l_KC31eioHP34dz9y-18" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;strokeColor=none;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
