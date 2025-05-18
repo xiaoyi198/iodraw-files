@@ -10,7 +10,7 @@
         <mxCell id="et-l_KC31eioHP34dz9y-2" value="信号采集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="230" y="140" width="94" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="et-l_KC31eioHP34dz9y-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-22">
+        <mxCell id="et-l_KC31eioHP34dz9y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-3" value="微处理器处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
@@ -74,7 +74,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="et-l_KC31eioHP34dz9y-18" value="" style="curved=0;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;strokeColor=none;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-22" target="et-l_KC31eioHP34dz9y-8">
+        <mxCell id="et-l_KC31eioHP34dz9y-18" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;strokeColor=none;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -93,18 +93,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="et-l_KC31eioHP34dz9y-24" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;rounded=0;strokeColor=none;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-22">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="640" y="320" />
-            </Array>
-            <mxPoint x="703" y="188" as="sourcePoint" />
-            <mxPoint x="723" y="401" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="et-l_KC31eioHP34dz9y-22" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="710" y="381" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
