@@ -7,7 +7,7 @@
         <mxCell id="et-l_KC31eioHP34dz9y-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-27" target="et-l_KC31eioHP34dz9y-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="et-l_KC31eioHP34dz9y-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="et-l_KC31eioHP34dz9y-34">
+        <mxCell id="et-l_KC31eioHP34dz9y-41" value="WIFI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="et-l_KC31eioHP34dz9y-34">
           <mxGeometry x="0.0632" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
