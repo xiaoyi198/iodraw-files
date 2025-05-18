@@ -20,7 +20,7 @@
           <mxGeometry x="140" y="400" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-6" value="血氧数据采集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="126" height="48" as="geometry" />
+          <mxGeometry x="310" y="400" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-7" value="实时参数显示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="126" height="48" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="660" y="401" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-9" value="血氧值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="844" y="239" width="78" height="48" as="geometry" />
+          <mxGeometry x="830" y="401" width="78" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-10" value="超限短信报警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="972" y="217" width="126" height="48" as="geometry" />
