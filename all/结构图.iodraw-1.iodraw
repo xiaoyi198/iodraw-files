@@ -35,7 +35,7 @@
           <mxGeometry x="954" y="400" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-11" value="超限蜂鸣器报警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1148" y="217" width="142" height="48" as="geometry" />
+          <mxGeometry x="1130" y="400" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-1" target="et-l_KC31eioHP34dz9y-2">
           <mxGeometry relative="1" as="geometry">
