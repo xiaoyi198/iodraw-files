@@ -17,7 +17,7 @@
           <mxGeometry x="1080" y="118" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-5" value="心率数据采集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="140" y="400" width="126" height="48" as="geometry" />
+          <mxGeometry x="140" y="401" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-6" value="血氧数据采集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="310" y="401" width="126" height="48" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="830" y="401" width="78" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-10" value="超限短信报警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="972" y="217" width="126" height="48" as="geometry" />
+          <mxGeometry x="954" y="400" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-11" value="超限蜂鸣器报警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1148" y="217" width="142" height="48" as="geometry" />
