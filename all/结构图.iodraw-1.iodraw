@@ -29,13 +29,13 @@
           <mxGeometry x="450" y="400" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-8" value="火焰传感器" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="668" y="400" width="110" height="48" as="geometry" />
+          <mxGeometry x="600" y="401" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-9" value="温度传感器" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="830" y="401" width="110" height="48" as="geometry" />
+          <mxGeometry x="750" y="401" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-10" value=" ZigBee无线网络" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="970" y="400" width="110" height="48" as="geometry" />
+          <mxGeometry x="890" y="401" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-11" value="   MQTT网络" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1130" y="400" width="110" height="48" as="geometry" />
