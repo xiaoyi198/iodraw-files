@@ -19,6 +19,9 @@
         <mxCell id="et-l_KC31eioHP34dz9y-32" value="CC2530&lt;div&gt;协调器节点&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="710" y="210" width="120" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-33" value="EMQX 云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
