@@ -11,7 +11,7 @@
           <mxGeometry x="230" y="140" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-3" value="微处理器处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="668" y="140" width="126" height="48" as="geometry" />
+          <mxGeometry x="640" y="140" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-4" value="报警提醒" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1070" y="180" width="94" height="48" as="geometry" />
