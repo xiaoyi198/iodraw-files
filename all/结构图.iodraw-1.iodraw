@@ -20,10 +20,10 @@
           <mxGeometry x="1070" y="140" width="94" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-5" value="web网页" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="140" y="401" width="126" height="48" as="geometry" />
+          <mxGeometry x="140" y="401" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-6" value="数据收集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="310" y="401" width="126" height="48" as="geometry" />
+          <mxGeometry x="310" y="401" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-7" value="烟雾传感器" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="480" y="400" width="110" height="48" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="830" y="401" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-10" value="超限短信报警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="954" y="400" width="126" height="48" as="geometry" />
+          <mxGeometry x="970" y="400" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-11" value="超限蜂鸣器报警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1130" y="400" width="142" height="48" as="geometry" />
+          <mxGeometry x="1130" y="400" width="110" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-1" target="et-l_KC31eioHP34dz9y-2">
           <mxGeometry relative="1" as="geometry">
