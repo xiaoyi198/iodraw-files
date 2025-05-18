@@ -13,7 +13,7 @@
         <mxCell id="et-l_KC31eioHP34dz9y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="et-l_KC31eioHP34dz9y-3" value="微处理器处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="et-l_KC31eioHP34dz9y-3" value="感知层" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="660" y="150" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-4" value="报警提醒" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
