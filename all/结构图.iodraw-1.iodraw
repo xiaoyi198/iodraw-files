@@ -4,6 +4,105 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="et-l_KC31eioHP34dz9y-1" value="脉搏远程监测仪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="645" y="20" width="172" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-2" value="信号采集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="244" y="118" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-3" value="微处理器处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="668" y="118" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-4" value="报警提醒" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1080" y="118" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-5" value="心率数据采集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="140" y="217" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-6" value="血氧数据采集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="316" y="217" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-7" value="实时参数显示" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="492" y="217" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-8" value="预设报警电话" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="668" y="217" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-9" value="血氧值" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="844" y="217" width="78" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-10" value="超限短信报警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="972" y="217" width="126" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-11" value="超限蜂鸣器报警" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1148" y="217" width="142" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-1" target="et-l_KC31eioHP34dz9y-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="291" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-1" target="et-l_KC31eioHP34dz9y-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-1" target="et-l_KC31eioHP34dz9y-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1127" y="93" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.04;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-2" target="et-l_KC31eioHP34dz9y-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="203" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.96;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-2" target="et-l_KC31eioHP34dz9y-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="379" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.88;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.94;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="883" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.02;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-4" target="et-l_KC31eioHP34dz9y-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1035" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.98;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-4" target="et-l_KC31eioHP34dz9y-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1219" y="192" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
