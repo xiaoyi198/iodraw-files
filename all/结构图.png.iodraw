@@ -18,6 +18,11 @@
         <mxCell id="et-l_KC31eioHP34dz9y-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-28" target="et-l_KC31eioHP34dz9y-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-42" value="MQTT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="et-l_KC31eioHP34dz9y-35">
+          <mxGeometry x="-0.2105" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-28" value="EMQX 云平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="890" y="320" width="120" height="60" as="geometry" />
         </mxCell>
