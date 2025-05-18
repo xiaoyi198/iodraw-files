@@ -5,10 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="et-l_KC31eioHP34dz9y-1" value="脉搏远程监测仪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="645" y="20" width="172" height="48" as="geometry" />
+          <mxGeometry x="617" y="20" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-2" value="信号采集" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="230" y="140" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-3" target="et-l_KC31eioHP34dz9y-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-3" value="微处理器处理" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="640" y="140" width="126" height="48" as="geometry" />
@@ -90,6 +93,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-22" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;arcSize=20;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="693" y="282" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
