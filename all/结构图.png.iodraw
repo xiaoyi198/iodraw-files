@@ -71,7 +71,7 @@
         <mxCell id="et-l_KC31eioHP34dz9y-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-43" target="et-l_KC31eioHP34dz9y-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="et-l_KC31eioHP34dz9y-49" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="et-l_KC31eioHP34dz9y-46">
+        <mxCell id="et-l_KC31eioHP34dz9y-49" value="&amp;nbsp;ADC" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="et-l_KC31eioHP34dz9y-46">
           <mxGeometry x="-0.7053" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -81,6 +81,11 @@
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="et-l_KC31eioHP34dz9y-44" target="et-l_KC31eioHP34dz9y-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="et-l_KC31eioHP34dz9y-50" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="et-l_KC31eioHP34dz9y-45">
+          <mxGeometry x="-0.3695" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="et-l_KC31eioHP34dz9y-44" value="火焰传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="430" width="120" height="60" as="geometry" />
