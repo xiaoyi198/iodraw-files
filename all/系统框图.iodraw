@@ -4,129 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-14" value="CC2530 SoC" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="750" y="452.5" width="143" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-15" value="ESP8266-12F" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="750" y="560" width="150" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-16" value="互联网" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="450" y="640" width="108" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-17" value="CC2530 SoC" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="432" y="366.5" width="143" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-18" value="温度传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="109" y="317.5" width="140" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-19" value="烟雾传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="109" y="415.5" width="140" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-20" value="CC2530 SoC" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="432" y="537" width="143" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-21" value="火焰传感器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="109" y="537" width="140" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-24" value="数据采集" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.05;entryY=0;rounded=0;" parent="1" source="wQl4vjx1rMvWt7BPeA3n-18" target="wQl4vjx1rMvWt7BPeA3n-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="373" y="341.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-25" value="数据采集" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.05;entryY=1.01;rounded=0;" parent="1" source="wQl4vjx1rMvWt7BPeA3n-19" target="wQl4vjx1rMvWt7BPeA3n-17" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="373" y="440.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-26" value="数据采集" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" parent="1" source="wQl4vjx1rMvWt7BPeA3n-21" target="wQl4vjx1rMvWt7BPeA3n-20" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" parent="1" source="wQl4vjx1rMvWt7BPeA3n-17" target="wQl4vjx1rMvWt7BPeA3n-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="650" as="sourcePoint" />
-            <mxPoint x="720" y="600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="680" y="410" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" parent="1" source="wQl4vjx1rMvWt7BPeA3n-20" target="wQl4vjx1rMvWt7BPeA3n-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="650" as="sourcePoint" />
-            <mxPoint x="720" y="600" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="660" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-31" value="ZigBee网络" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="610" y="454" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-32" value="云服务器" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="110" y="767" width="124" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-33" value="EMQX MQTT服务器" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="284" y="767" width="163" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-34" value="MQTT数据" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="497" y="730" width="122" height="122" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-35" value="wab网页" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="669" y="767" width="124" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="wQl4vjx1rMvWt7BPeA3n-32" target="wQl4vjx1rMvWt7BPeA3n-33" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="wQl4vjx1rMvWt7BPeA3n-33" target="wQl4vjx1rMvWt7BPeA3n-34" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="wQl4vjx1rMvWt7BPeA3n-34" target="wQl4vjx1rMvWt7BPeA3n-35" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-41" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="wQl4vjx1rMvWt7BPeA3n-15" target="wQl4vjx1rMvWt7BPeA3n-14" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="880" y="710" as="sourcePoint" />
-            <mxPoint x="980" y="610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="wQl4vjx1rMvWt7BPeA3n-15" target="wQl4vjx1rMvWt7BPeA3n-16" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="680" as="sourcePoint" />
-            <mxPoint x="960" y="630" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="690" y="650" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wQl4vjx1rMvWt7BPeA3n-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="wQl4vjx1rMvWt7BPeA3n-16" target="wQl4vjx1rMvWt7BPeA3n-32" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="680" as="sourcePoint" />
-            <mxPoint x="960" y="630" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="300" y="690" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MNscMoRNi8KyWBG4J2dp-1" value="主控制器&#xa;ESP32S3M" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="110" y="919" width="208" height="48" as="geometry" />
         </mxCell>
         <mxCell id="MNscMoRNi8KyWBG4J2dp-2" value="云平台" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="494" y="870" width="79" height="48" as="geometry" />
+          <mxGeometry x="510" y="780" width="79" height="48" as="geometry" />
         </mxCell>
         <mxCell id="MNscMoRNi8KyWBG4J2dp-3" value="用户" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="821" y="870" width="62" height="48" as="geometry" />
+          <mxGeometry x="821" y="770" width="62" height="48" as="geometry" />
         </mxCell>
         <mxCell id="MNscMoRNi8KyWBG4J2dp-4" value="终端节点&#xa;CC2530" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="437" y="968" width="192" height="48" as="geometry" />
