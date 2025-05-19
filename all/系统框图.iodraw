@@ -14,10 +14,10 @@
           <mxGeometry x="821" y="770" width="62" height="48" as="geometry" />
         </mxCell>
         <mxCell id="MNscMoRNi8KyWBG4J2dp-4" value="终端节点&#xa;CC2530" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="437" y="968" width="192" height="48" as="geometry" />
+          <mxGeometry x="437" y="900" width="103" height="220" as="geometry" />
         </mxCell>
         <mxCell id="MNscMoRNi8KyWBG4J2dp-5" value="传感器节点&#xa;CC2530" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="748" y="968" width="208" height="48" as="geometry" />
+          <mxGeometry x="610" y="890" width="90" height="240" as="geometry" />
         </mxCell>
         <mxCell id="MNscMoRNi8KyWBG4J2dp-6" value="空气温湿度传感器&#xa;DHT11" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1006" y="919" width="249" height="48" as="geometry" />
