@@ -73,6 +73,11 @@
             <mxPoint x="820" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MNscMoRNi8KyWBG4J2dp-16" value="ZigBee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MNscMoRNi8KyWBG4J2dp-15">
+          <mxGeometry x="0.0205" y="-5" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
