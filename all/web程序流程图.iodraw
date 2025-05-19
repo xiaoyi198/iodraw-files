@@ -5,10 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="xKrhEGSewny9EwlXUthp-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="100" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xKrhEGSewny9EwlXUthp-2" value="温度传感器读取程序流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="315" y="18" width="170" height="30" as="geometry" />
+        <mxCell id="xKrhEGSewny9EwlXUthp-2" value="温度传感器读取程序流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="315" y="50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-3" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="110" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
