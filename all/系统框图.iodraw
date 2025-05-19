@@ -17,7 +17,7 @@
           <mxGeometry x="437" y="900" width="103" height="220" as="geometry" />
         </mxCell>
         <mxCell id="MNscMoRNi8KyWBG4J2dp-5" value="传感器节点&#xa;CC2530" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="610" y="890" width="90" height="240" as="geometry" />
+          <mxGeometry x="700" y="890" width="90" height="240" as="geometry" />
         </mxCell>
         <mxCell id="MNscMoRNi8KyWBG4J2dp-6" value="空气温湿度传感器&#xa;DHT11" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1006" y="919" width="249" height="48" as="geometry" />
@@ -53,11 +53,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MNscMoRNi8KyWBG4J2dp-12" value="无线通讯" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="MNscMoRNi8KyWBG4J2dp-4" target="MNscMoRNi8KyWBG4J2dp-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MNscMoRNi8KyWBG4J2dp-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.81;exitY=0.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="MNscMoRNi8KyWBG4J2dp-5" target="MNscMoRNi8KyWBG4J2dp-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -70,6 +65,12 @@
             <Array as="points">
               <mxPoint x="981" y="1042" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MNscMoRNi8KyWBG4J2dp-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1.04;exitY=0.465;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.021;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MNscMoRNi8KyWBG4J2dp-4" target="MNscMoRNi8KyWBG4J2dp-5">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="720" y="880" as="sourcePoint" />
+            <mxPoint x="820" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
