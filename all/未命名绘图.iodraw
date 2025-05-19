@@ -5,19 +5,31 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uRrzzjhA9FobmkrusqY9-1" value="CC2530&lt;div&gt;协调器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="410" width="90" height="90" as="geometry" />
+          <mxGeometry x="369" y="375" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uRrzzjhA9FobmkrusqY9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRrzzjhA9FobmkrusqY9-12" target="uRrzzjhA9FobmkrusqY9-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uRrzzjhA9FobmkrusqY9-12" value="ESP8266" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="410" width="90" height="90" as="geometry" />
+          <mxGeometry x="249" y="375" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uRrzzjhA9FobmkrusqY9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRrzzjhA9FobmkrusqY9-13" target="uRrzzjhA9FobmkrusqY9-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uRrzzjhA9FobmkrusqY9-13" value="火焰传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="290" width="90" height="90" as="geometry" />
+          <mxGeometry x="369" y="255" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uRrzzjhA9FobmkrusqY9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRrzzjhA9FobmkrusqY9-14" target="uRrzzjhA9FobmkrusqY9-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uRrzzjhA9FobmkrusqY9-14" value="烟雾传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="530" width="90" height="90" as="geometry" />
+          <mxGeometry x="369" y="495" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="uRrzzjhA9FobmkrusqY9-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uRrzzjhA9FobmkrusqY9-15" target="uRrzzjhA9FobmkrusqY9-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uRrzzjhA9FobmkrusqY9-15" value="温度传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="410" width="90" height="90" as="geometry" />
+          <mxGeometry x="489" y="375" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
