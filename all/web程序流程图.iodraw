@@ -11,10 +11,116 @@
           <mxGeometry x="340" y="100" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="xKrhEGSewny9EwlXUthp-2" value="温度传感器读取程序流程图" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
-          <mxGeometry x="315" y="50" width="170" height="30" as="geometry" />
+          <mxGeometry x="305" y="50" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xKrhEGSewny9EwlXUthp-3" value="初始化" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="170" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-5" value="开始" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="454" y="240" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-6" value="拉低DATA_PIN，延时19ms" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="385" y="338" width="232" height="232" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-7" value="拉高DATA_PIN，配置为输入" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="379" y="620" width="243" height="243" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-8" value="延时40us" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="445" y="937" width="112" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-9" value="否" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="379" y="1203" width="76" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-10" value="等待DHT11拉高" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="505" y="1147" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-11" value="置温湿度为0/1，结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1422" width="214" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-12" value="H" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="787" y="240" width="70" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-13" value="DATA_PIN拉高" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="748" y="381" width="147" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-14" value="校验和判断" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="757" y="677" width="129" height="129" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-15" value="保存数据" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="765" y="936" width="114" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-16" value="解析温湿度整数和个位" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="717" y="1122" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-17" value="配置为输出" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="758" y="1382" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-18" value="结束" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="775" y="1561" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xKrhEGSewny9EwlXUthp-5" target="xKrhEGSewny9EwlXUthp-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xKrhEGSewny9EwlXUthp-6" target="xKrhEGSewny9EwlXUthp-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xKrhEGSewny9EwlXUthp-7" target="xKrhEGSewny9EwlXUthp-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-22" value="DATA_PIN为低?" style="curved=1;startArrow=none;endArrow=block;exitX=0.05;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xKrhEGSewny9EwlXUthp-8" target="xKrhEGSewny9EwlXUthp-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="417" y="1086" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-23" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0.95;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xKrhEGSewny9EwlXUthp-8" target="xKrhEGSewny9EwlXUthp-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="1086" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xKrhEGSewny9EwlXUthp-9" target="xKrhEGSewny9EwlXUthp-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xKrhEGSewny9EwlXUthp-12" target="xKrhEGSewny9EwlXUthp-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xKrhEGSewny9EwlXUthp-13" target="xKrhEGSewny9EwlXUthp-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-27" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xKrhEGSewny9EwlXUthp-14" target="xKrhEGSewny9EwlXUthp-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xKrhEGSewny9EwlXUthp-15" target="xKrhEGSewny9EwlXUthp-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="xKrhEGSewny9EwlXUthp-16" target="xKrhEGSewny9EwlXUthp-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xKrhEGSewny9EwlXUthp-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="xKrhEGSewny9EwlXUthp-17" target="xKrhEGSewny9EwlXUthp-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
