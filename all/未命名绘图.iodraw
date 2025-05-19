@@ -10,7 +10,7 @@
         <mxCell id="uRrzzjhA9FobmkrusqY9-12" value="ESP8266" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="410" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="uRrzzjhA9FobmkrusqY9-13" value="CC2530&lt;div&gt;协调器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uRrzzjhA9FobmkrusqY9-13" value="火焰传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="290" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="uRrzzjhA9FobmkrusqY9-14" value="CC2530&lt;div&gt;协调器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
