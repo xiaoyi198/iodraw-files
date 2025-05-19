@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="uRrzzjhA9FobmkrusqY9-1" value="CC2530&lt;div&gt;协调器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="290" width="90" height="210" as="geometry" />
+          <mxGeometry x="260" y="290" width="90" height="210" as="geometry" />
         </mxCell>
         <mxCell id="uRrzzjhA9FobmkrusqY9-2" value="CC2530&lt;div&gt;终端&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="290" width="90" height="210" as="geometry" />
