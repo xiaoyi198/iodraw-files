@@ -41,7 +41,7 @@
         <mxCell id="F6YSi3LrE7C87Fv-tWGS-9" value="检查ZigBee信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6YSi3LrE7C87Fv-tWGS-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F6YSi3LrE7C87Fv-tWGS-12" value="将设备信息发送到&lt;br&gt;UART" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
