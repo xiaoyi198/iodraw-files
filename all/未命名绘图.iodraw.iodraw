@@ -32,6 +32,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="F6YSi3LrE7C87Fv-tWGS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F6YSi3LrE7C87Fv-tWGS-8" target="F6YSi3LrE7C87Fv-tWGS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F6YSi3LrE7C87Fv-tWGS-8" value="查询是否有设备连接" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="310" width="170" height="80" as="geometry" />
         </mxCell>
@@ -43,6 +46,9 @@
         </mxCell>
         <mxCell id="F6YSi3LrE7C87Fv-tWGS-12" value="将设备信息发送到&lt;br&gt;UART" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F6YSi3LrE7C87Fv-tWGS-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
