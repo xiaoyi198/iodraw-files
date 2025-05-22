@@ -16,14 +16,13 @@
         <mxCell id="F6YSi3LrE7C87Fv-tWGS-2" value="初始化&lt;div&gt;(IO、定时器)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6YSi3LrE7C87Fv-tWGS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F6YSi3LrE7C87Fv-tWGS-4" target="F6YSi3LrE7C87Fv-tWGS-6">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="F6YSi3LrE7C87Fv-tWGS-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F6YSi3LrE7C87Fv-tWGS-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="F6YSi3LrE7C87Fv-tWGS-4" value="创建ZigBee网络" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="220" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F6YSi3LrE7C87Fv-tWGS-6" value="等待设备连接" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
