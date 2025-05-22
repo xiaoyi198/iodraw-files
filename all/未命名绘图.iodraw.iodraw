@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F6YSi3LrE7C87Fv-tWGS-14" value="将新设备连接至网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F6YSi3LrE7C87Fv-tWGS-14" value="将新设备连接至ZigBee网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="444.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F6YSi3LrE7C87Fv-tWGS-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F6YSi3LrE7C87Fv-tWGS-19" target="F6YSi3LrE7C87Fv-tWGS-24">
@@ -100,7 +100,7 @@
             <mxPoint x="450" y="460" as="targetPoint" />
             <Array as="points">
               <mxPoint x="220" y="870" />
-              <mxPoint x="220" y="350" />
+              <mxPoint x="220" y="375" />
             </Array>
           </mxGeometry>
         </mxCell>
