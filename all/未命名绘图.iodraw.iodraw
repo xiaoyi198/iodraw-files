@@ -65,6 +65,11 @@
         <mxCell id="F6YSi3LrE7C87Fv-tWGS-14" value="将新设备连接至网络" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="420" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="F6YSi3LrE7C87Fv-tWGS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F6YSi3LrE7C87Fv-tWGS-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F6YSi3LrE7C87Fv-tWGS-19" value="发送成功了吗？&lt;br&gt;串口返回OK" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="760" width="170" height="80" as="geometry" />
         </mxCell>
