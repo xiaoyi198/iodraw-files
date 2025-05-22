@@ -35,8 +35,14 @@
         <mxCell id="F6YSi3LrE7C87Fv-tWGS-8" value="查询是否有设备连接" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="310" width="170" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="F6YSi3LrE7C87Fv-tWGS-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F6YSi3LrE7C87Fv-tWGS-9" target="F6YSi3LrE7C87Fv-tWGS-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F6YSi3LrE7C87Fv-tWGS-9" value="检查ZigBee信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F6YSi3LrE7C87Fv-tWGS-12" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
