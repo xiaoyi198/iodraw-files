@@ -47,16 +47,8 @@
         <mxCell id="F6YSi3LrE7C87Fv-tWGS-12" value="将设备信息发送到&lt;br&gt;UART" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="F6YSi3LrE7C87Fv-tWGS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="F6YSi3LrE7C87Fv-tWGS-14" target="F6YSi3LrE7C87Fv-tWGS-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="590" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="590" y="585" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="F6YSi3LrE7C87Fv-tWGS-14" value="记录设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
