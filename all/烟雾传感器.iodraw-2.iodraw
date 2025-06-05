@@ -7,7 +7,7 @@
         <mxCell id="SpnIiGPxZZRkTWNT4gBY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-1" target="SpnIiGPxZZRkTWNT4gBY-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SpnIiGPxZZRkTWNT4gBY-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="361" y="132" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SpnIiGPxZZRkTWNT4gBY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-2" target="SpnIiGPxZZRkTWNT4gBY-4" edge="1">
@@ -40,11 +40,8 @@
         <mxCell id="SpnIiGPxZZRkTWNT4gBY-10" value="返回数值" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="354" y="612" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SpnIiGPxZZRkTWNT4gBY-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=48;" parent="1" vertex="1">
           <mxGeometry x="361" y="702" width="106" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-18" value="烟雾浓度传感器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
-          <mxGeometry x="359" y="80" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
