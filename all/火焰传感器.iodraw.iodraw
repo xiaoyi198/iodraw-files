@@ -7,7 +7,7 @@
         <mxCell id="SpnIiGPxZZRkTWNT4gBY-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-1" target="SpnIiGPxZZRkTWNT4gBY-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
+        <mxCell id="SpnIiGPxZZRkTWNT4gBY-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="361" y="132" width="106" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SpnIiGPxZZRkTWNT4gBY-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-2" target="SpnIiGPxZZRkTWNT4gBY-4" edge="1">
@@ -16,58 +16,35 @@
         <mxCell id="SpnIiGPxZZRkTWNT4gBY-2" value="初始化" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="354" y="222" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-4" target="SpnIiGPxZZRkTWNT4gBY-19" edge="1">
+        <mxCell id="SpnIiGPxZZRkTWNT4gBY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-4" target="SpnIiGPxZZRkTWNT4gBY-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-4" value="等待检测电平" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" parent="1" vertex="1">
+        <mxCell id="SpnIiGPxZZRkTWNT4gBY-4" value="配置ADC" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" parent="1" vertex="1">
           <mxGeometry x="354" y="322" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SpnIiGPxZZRkTWNT4gBY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-6" target="SpnIiGPxZZRkTWNT4gBY-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpnIiGPxZZRkTWNT4gBY-6" value="等待ADC读取数据" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="354" y="422" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpnIiGPxZZRkTWNT4gBY-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-8" target="SpnIiGPxZZRkTWNT4gBY-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpnIiGPxZZRkTWNT4gBY-8" value="将数据转码计算为&lt;div&gt;烟雾浓度&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="354" y="522" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SpnIiGPxZZRkTWNT4gBY-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-10" target="SpnIiGPxZZRkTWNT4gBY-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SpnIiGPxZZRkTWNT4gBY-10" value="返回数值" style="whiteSpace=wrap;html=1;rounded=1;arcSize=0;" parent="1" vertex="1">
+          <mxGeometry x="354" y="612" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="SpnIiGPxZZRkTWNT4gBY-14" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="361" y="790" width="106" height="50" as="geometry" />
+          <mxGeometry x="361" y="702" width="106" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-19" target="SpnIiGPxZZRkTWNT4gBY-21" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-25" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SpnIiGPxZZRkTWNT4gBY-22" vertex="1" connectable="0">
-          <mxGeometry x="-0.6537" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-19" target="SpnIiGPxZZRkTWNT4gBY-23" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="SpnIiGPxZZRkTWNT4gBY-24" vertex="1" connectable="0">
-          <mxGeometry x="-0.2727" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-19" value="是否为低电平？" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="420" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-21" value="返回标志位0" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-23" target="SpnIiGPxZZRkTWNT4gBY-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-23" value="触发火焰报警" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="555" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-27" target="SpnIiGPxZZRkTWNT4gBY-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-27" value="返回标志位1" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="650" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="SpnIiGPxZZRkTWNT4gBY-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="SpnIiGPxZZRkTWNT4gBY-21" target="SpnIiGPxZZRkTWNT4gBY-14" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="780" as="sourcePoint" />
-            <mxPoint x="600" y="730" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="580" y="750" />
-              <mxPoint x="414" y="750" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="SpnIiGPxZZRkTWNT4gBY-18" value="烟雾浓度传感器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
+          <mxGeometry x="359" y="80" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
